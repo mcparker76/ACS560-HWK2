@@ -1,0 +1,6 @@
+C:\Users\Matt\Desktop\HW1_Parker\CSharp_HelloWorld_Parker\CSharp_HelloWorld_Parker\bin\Debug\CSharp_HelloWorld_Parker.exe.config
+C:\Users\Matt\Desktop\HW1_Parker\CSharp_HelloWorld_Parker\CSharp_HelloWorld_Parker\bin\Debug\CSharp_HelloWorld_Parker.exe
+C:\Users\Matt\Desktop\HW1_Parker\CSharp_HelloWorld_Parker\CSharp_HelloWorld_Parker\bin\Debug\CSharp_HelloWorld_Parker.pdb
+C:\Users\Matt\Desktop\HW1_Parker\CSharp_HelloWorld_Parker\CSharp_HelloWorld_Parker\obj\Debug\CSharp_HelloWorld_Parker.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\HW1_Parker\CSharp_HelloWorld_Parker\CSharp_HelloWorld_Parker\obj\Debug\CSharp_HelloWorld_Parker.exe
+C:\Users\Matt\Desktop\HW1_Parker\CSharp_HelloWorld_Parker\CSharp_HelloWorld_Parker\obj\Debug\CSharp_HelloWorld_Parker.pdb
